@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-26T13:17:23 IST" name="Suite" finished-at="2023-07-26T13:17:43 IST" duration-ms="19602">
+  <suite started-at="2023-07-28T13:44:39 IST" name="Suite" finished-at="2023-07-28T13:44:59 IST" duration-ms="19703">
     <groups>
     </groups>
-    <test started-at="2023-07-26T13:17:23 IST" name="Test" finished-at="2023-07-26T13:17:43 IST" duration-ms="19602">
+    <test started-at="2023-07-28T13:44:39 IST" name="Test" finished-at="2023-07-28T13:44:59 IST" duration-ms="19703">
       <class name="Demo1.FacebookSignup">
-        <test-method signature="f()[pri:0, instance:Demo1.FacebookSignup@156b88f5]" started-at="2023-07-26T13:17:23 IST" name="f" finished-at="2023-07-26T13:17:33 IST" duration-ms="10215" status="PASS">
+        <test-method signature="f()[pri:0, instance:Demo1.FacebookSignup@156b88f5]" started-at="2023-07-28T13:44:40 IST" name="f" finished-at="2023-07-28T13:44:51 IST" duration-ms="11921" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- Demo1.FacebookSignup -->
       <class name="Demo1.FacebookLogin">
-        <test-method signature="f()[pri:0, instance:Demo1.FacebookLogin@1a18644]" started-at="2023-07-26T13:17:33 IST" name="f" finished-at="2023-07-26T13:17:43 IST" duration-ms="9317" status="PASS">
+        <test-method signature="f()[pri:0, instance:Demo1.FacebookLogin@1a18644]" started-at="2023-07-28T13:44:51 IST" name="f" finished-at="2023-07-28T13:44:59 IST" duration-ms="7726" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
